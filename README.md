@@ -1,0 +1,1 @@
+This application helps to identify if a given website is Phishing or Legitimate
